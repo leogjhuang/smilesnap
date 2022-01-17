@@ -1,5 +1,6 @@
 # SmileSnap
 *Ever tried to take a picture but couldn't get the timing right? We got the solution for you!*
+
 We’ve created a program that takes photos only when you smile. If you’re looking to take a group photo, we’ve got you covered too; we’ll only take the photo when every subject is smiling. 
 
 ## Inspiration
