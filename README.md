@@ -17,5 +17,5 @@ This was our first time creating an OpenCV model! We decided to challenge oursel
 ## What we learned
 So much! Through Hack the North 2020++, we were able to improve not only our technical skills but also our problem-solving and teamwork. We learned to communicate more effectively in a virtual environment and find ways to collaborate to overcome design changes.
 
-## What's next for SmileSnap!
+## What's next for SmileSnap
 SmileSnap has limitless potential as an important tool in workplaces or large groups of people. After this hackathon, we hope to develop its UI and implement the program through an app or website. We are excited to see where this project will take us.
